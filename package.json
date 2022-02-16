@@ -1,5 +1,5 @@
 {
-  "name": "@evd3v/weather-cli-evd3v",
+  "name": "@evd3v/weather-cli",
   "version": "1.0.0",
   "description": "CLI for getting weather",
   "main": "weather.js",
